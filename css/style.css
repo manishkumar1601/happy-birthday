@@ -402,10 +402,6 @@ font-family: 'Lobster', cursive;
   height: 100%;
   background-position: center;
   background-size: cover;
-  -webkit-animation: fade-in 20s ease-in;
-          animation: fade-in 20s ease-in;
-  -webkit-animation-iteration-count: 1;
-          animation-iteration-count: 1;
 }
 
 @-webkit-keyframes fade-in {
